@@ -1,0 +1,10 @@
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.deps.json
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.runtimeconfig.json
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.runtimeconfig.dev.json
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.dll
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/bin/Debug/netcoreapp2.0/BagOLoot.pdb
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.csproj.CoreCompileInputs.cache
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.AssemblyInfoInputs.cache
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.AssemblyInfo.cs
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.dll
+/Users/japage/workspace/Server-Side/csharp/exercises/bagoloot/BagOLoot/obj/Debug/netcoreapp2.0/BagOLoot.pdb
